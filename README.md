@@ -26,7 +26,6 @@
 |[placar](https://github.com/cajogos/placar)|A scoreboard system for treasure hunting. Used by CoderDojo Whitechapel Halloween treasure hunt.|1|1|1|
 |[BISCUIT](https://github.com/cajogos/BISCUIT)|A simpler way to query multiple types of databases.|1|1|1|
 |[binarysplit](https://github.com/cajogos/binarysplit)|A simple binary split algorithm written in JavaScript.|1|0|1|
-|[thmsgbrt](https://github.com/cajogos/thmsgbrt)|My awesome README.md|0|0|0|
 |[cajogos](https://github.com/cajogos/cajogos)|Wanna know more? https://carlos.fyi|0|0|0|
 |[js.org](https://github.com/cajogos/js.org)|Dedicated to JavaScript and its awesome community since 2015 |0|0|0|
 |[crypto-tip-bot](https://github.com/cajogos/crypto-tip-bot)|Discord Tip Bot for BTC Based Cryptocurrencies.|0|0|0|
@@ -45,5 +44,7 @@
 |[Brazio](https://github.com/cajogos/Brazio)|The Cryptocurrency of Brazil|0|0|0|
 |[plusonecoin.org](https://github.com/cajogos/plusonecoin.org)|PlusOneCoin website|0|0|0|
 |[phantomjs-sandbox](https://github.com/cajogos/phantomjs-sandbox)|PhantomJS sandbox files whilst learning to use it.|0|0|0|
-|[cajogos.github.io](https://github.com/cajogos/cajogos.github.io)|My Project on GitHub compiled into a website.|0|0|0|---
-**Last updated:** 15:07 on Oct 25, 2020
+|[cajogos.github.io](https://github.com/cajogos/cajogos.github.io)|My Project on GitHub compiled into a website.|0|0|0|
+
+---
+**Last updated:** 15:18 on Oct 25, 2020
