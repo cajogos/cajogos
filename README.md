@@ -12,6 +12,7 @@
 |[bitcoin-core-api](https://github.com/cajogos/bitcoin-core-api)|A Bitcoin Core JSON RPC API wrapper written in PHP.|2|1|2|
 |[biscuit-link-framework](https://github.com/cajogos/biscuit-link-framework)|The Biscuit Link PHP Framework core classes.|2|1|2|
 |[easy-steps](https://github.com/cajogos/easy-steps)|A collection of code written for the In Easy Steps book series by Mike McGrath.|2|0|2|
+|[cajogos](https://github.com/cajogos/cajogos)|Wanna know more? https://carlos.fyi|1|0|1|
 |[carlos.fyi](https://github.com/cajogos/carlos.fyi)|Official repository of my personal website.|1|1|1|
 |[symfony4-nginx-vagrant](https://github.com/cajogos/symfony4-nginx-vagrant)|A Symfony 4 Vagrant box using NGINX as web server.|1|0|1|
 |[game-tools](https://github.com/cajogos/game-tools)|A series of tools I coded to help me play my games.|1|0|1|
@@ -21,7 +22,6 @@
 |[placar](https://github.com/cajogos/placar)|A scoreboard system for treasure hunting. Used by CoderDojo Whitechapel Halloween treasure hunt.|1|1|1|
 |[BISCUIT](https://github.com/cajogos/BISCUIT)|A simpler way to query multiple types of databases.|1|1|1|
 |[binarysplit](https://github.com/cajogos/binarysplit)|A simple binary split algorithm written in JavaScript.|1|0|1|
-|[cajogos](https://github.com/cajogos/cajogos)|Wanna know more? https://carlos.fyi|0|0|0|
 |[js.org](https://github.com/cajogos/js.org)|Dedicated to JavaScript and its awesome community since 2015 |0|0|0|
 |[coderdojorise.com](https://github.com/cajogos/coderdojorise.com)|The new repository for the CoderDojo RISE website.|0|0|0|
 |[Mongoku](https://github.com/cajogos/Mongoku)|Mongoku for Node v12|0|0|0|
@@ -36,4 +36,4 @@
 |[cajogos.github.io](https://github.com/cajogos/cajogos.github.io)|My Project on GitHub compiled into a website.|0|0|0|
 
 ---
-**Last updated:** 15:55 on Nov 04, 2020
+**Last updated:** 15:55 on Nov 05, 2020
