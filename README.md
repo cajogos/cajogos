@@ -22,6 +22,7 @@
 |[placar](https://github.com/cajogos/placar)|A scoreboard system for treasure hunting. Used by CoderDojo Whitechapel Halloween treasure hunt.|1|1|1|
 |[BISCUIT](https://github.com/cajogos/BISCUIT)|A simpler way to query multiple types of databases.|1|1|1|
 |[binarysplit](https://github.com/cajogos/binarysplit)|A simple binary split algorithm written in JavaScript.|1|0|1|
+|[elasticsearch](https://github.com/cajogos/elasticsearch)|None|0|0|0|
 |[coderdojorise.com](https://github.com/cajogos/coderdojorise.com)|The new repository for the CoderDojo RISE website.|0|0|0|
 |[carteira](https://github.com/cajogos/carteira)|A multi-purpose wallet manager for cryptocurrencies and others.|0|2|0|
 |[defi-uniswap-v2-api-wrapper](https://github.com/cajogos/defi-uniswap-v2-api-wrapper)|🔮 Uniswap market data|0|0|0|
@@ -41,4 +42,4 @@
 |[cajogos.github.io](https://github.com/cajogos/cajogos.github.io)|My Project on GitHub compiled into a website.|0|0|0|
 
 ---
-**Last updated:** 15:55 on Apr 03, 2021
+**Last updated:** 15:55 on Apr 04, 2021
