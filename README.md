@@ -23,6 +23,7 @@
 |[placar](https://github.com/cajogos/placar)|A scoreboard system for treasure hunting. Used by CoderDojo Whitechapel Halloween treasure hunt.|1|1|1|
 |[BISCUIT](https://github.com/cajogos/BISCUIT)|A simpler way to query multiple types of databases.|1|1|1|
 |[binarysplit](https://github.com/cajogos/binarysplit)|A simple binary split algorithm written in JavaScript.|1|0|1|
+|[react-tictactoe](https://github.com/cajogos/react-tictactoe)|https://reactjs.org/tutorial/tutorial.html|0|0|0|
 |[jitwatch](https://github.com/cajogos/jitwatch)|Log analyser / visualiser for Java HotSpot JIT compiler. Inspect inlining decisions, hot methods, bytecode, and assembly. View results in the JavaFX user interface.|0|0|0|
 |[sushiswap-subgraph](https://github.com/cajogos/sushiswap-subgraph)|Sushiswap Subgraph |0|0|0|
 |[smart-contract-best-practices](https://github.com/cajogos/smart-contract-best-practices)|A guide to smart contract security best practices|0|0|0|
@@ -48,4 +49,4 @@
 |[cajogos.github.io](https://github.com/cajogos/cajogos.github.io)|My Project on GitHub compiled into a website.|0|0|0|
 
 ---
-**Last updated:** 15:55 on Jun 12, 2021
+**Last updated:** 15:55 on Jun 13, 2021
