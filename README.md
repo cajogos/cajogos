@@ -23,6 +23,7 @@
 |[placar](https://github.com/cajogos/placar)|A scoreboard system for treasure hunting. Used by CoderDojo Whitechapel Halloween treasure hunt.|1|1|1|
 |[BISCUIT](https://github.com/cajogos/BISCUIT)|A simpler way to query multiple types of databases.|1|1|1|
 |[binarysplit](https://github.com/cajogos/binarysplit)|A simple binary split algorithm written in JavaScript.|1|0|1|
+|[token-deploy-test](https://github.com/cajogos/token-deploy-test)|Deploying a token using Solidity, Truffle, Ganache, etc.|0|0|0|
 |[next-learn-starter](https://github.com/cajogos/next-learn-starter)|Learn Next.js Starter Code|0|0|0|
 |[nextjs-blog](https://github.com/cajogos/nextjs-blog)|Learning Next.js|0|0|0|
 |[react-tictactoe](https://github.com/cajogos/react-tictactoe)|https://reactjs.org/tutorial/tutorial.html|0|0|0|
@@ -51,4 +52,4 @@
 |[cajogos.github.io](https://github.com/cajogos/cajogos.github.io)|My Project on GitHub compiled into a website.|0|0|0|
 
 ---
-**Last updated:** 15:55 on Jul 02, 2021
+**Last updated:** 15:55 on Jul 03, 2021
