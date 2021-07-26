@@ -3,7 +3,7 @@
 
 | Repositories | | ⭐ Stars | 📚 Forks | 👀 Watchers |
 |---|---|:---:|:---:|:---:|
-|[php-Minecraft-3D-Skin-Renderer](https://github.com/cajogos/php-Minecraft-3D-Skin-Renderer)|Render a 3D view of a Minecraft skin.|10|4|10|
+|[php-Minecraft-3D-Skin-Renderer](https://github.com/cajogos/php-Minecraft-3D-Skin-Renderer)|Render a 3D view of a Minecraft skin.|10|5|10|
 |[php-temp-cache](https://github.com/cajogos/php-temp-cache)|Simple PHP caching class that uses the /tmp/ folder of a Linux system.|5|0|5|
 |[android-course](https://github.com/cajogos/android-course)|A small repository to keep my files from the Udemy course on Android development by Tim Buchalka.|4|2|4|
 |[biscuit-link](https://github.com/cajogos/biscuit-link)|A PHP framework for people who do not want to waste time.|3|4|3|
@@ -50,4 +50,4 @@
 |[cajogos.github.io](https://github.com/cajogos/cajogos.github.io)|My Project on GitHub compiled into a website.|0|0|0|
 
 ---
-**Last updated:** 15:55 on Jul 25, 2021
+**Last updated:** 15:55 on Jul 26, 2021
