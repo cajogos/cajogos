@@ -5,7 +5,7 @@
 |---|---|:---:|:---:|:---:|
 |[php-Minecraft-3D-Skin-Renderer](https://github.com/cajogos/php-Minecraft-3D-Skin-Renderer)|Render a 3D view of a Minecraft skin.|9|5|9|
 |[php-temp-cache](https://github.com/cajogos/php-temp-cache)|Simple PHP caching class that uses the /tmp/ folder of a Linux system.|5|0|5|
-|[easy-steps](https://github.com/cajogos/easy-steps)|A collection of code written for the In Easy Steps book series by Mike McGrath.|4|0|4|
+|[easy-steps](https://github.com/cajogos/easy-steps)|A collection of code written for the In Easy Steps book series by Mike McGrath.|4|1|4|
 |[android-course](https://github.com/cajogos/android-course)|A small repository to keep my files from the Udemy course on Android development by Tim Buchalka.|4|2|4|
 |[biscuit-link](https://github.com/cajogos/biscuit-link)|A PHP framework for people who do not want to waste time.|3|4|3|
 |[seesaw](https://github.com/cajogos/seesaw)|A JavaScript framework for creation of always-running web apps.|3|1|3|
@@ -56,4 +56,4 @@
 |[cajogos.github.io](https://github.com/cajogos/cajogos.github.io)|My Project on GitHub compiled into a website.|0|0|0|
 
 ---
-**Last updated:** 15:55 on Feb 17, 2022
+**Last updated:** 15:55 on Feb 26, 2022
