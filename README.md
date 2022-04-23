@@ -11,7 +11,7 @@
 |[seesaw](https://github.com/cajogos/seesaw)|A JavaScript framework for creation of always-running web apps.|3|1|3|
 |[crypto-explorer](https://github.com/cajogos/crypto-explorer)|An open source cryptocurrency explorer.|3|0|3|
 |[biscuit-link-framework](https://github.com/cajogos/biscuit-link-framework)|The Biscuit Link PHP Framework core classes.|2|1|2|
-|[tokenmaker.xyz](https://github.com/cajogos/tokenmaker.xyz)|None|1|0|1|
+|[tokenmaker.xyz](https://github.com/cajogos/tokenmaker.xyz)|An easy to use ERC20 token creator.|1|0|1|
 |[carlos.fyi](https://github.com/cajogos/carlos.fyi)|Official repository of my personal website.|1|1|1|
 |[introduction-to-r](https://github.com/cajogos/introduction-to-r)|A repository to keep some examples of me learning R programming.|1|0|1|
 |[symfony4-nginx-vagrant](https://github.com/cajogos/symfony4-nginx-vagrant)|A Symfony 4 Vagrant box using NGINX as web server.|1|0|1|
@@ -22,14 +22,11 @@
 |[placar](https://github.com/cajogos/placar)|A scoreboard system for treasure hunting. Used by CoderDojo Whitechapel Halloween treasure hunt.|1|1|1|
 |[BISCUIT](https://github.com/cajogos/BISCUIT)|A simpler way to query multiple types of databases.|1|1|1|
 |[binarysplit](https://github.com/cajogos/binarysplit)|A simple binary split algorithm written in JavaScript.|1|0|1|
-|[Concurrency-Coursework01](https://github.com/cajogos/Concurrency-Coursework01)|None|0|0|0|
-|[DataAnalytics-Coursework01](https://github.com/cajogos/DataAnalytics-Coursework01)|Advanced Big Data Analytics Code|0|0|0|
-|[Concurrency-Coursework02](https://github.com/cajogos/Concurrency-Coursework02)|None|0|0|0|
+|[react-tictactoe](https://github.com/cajogos/react-tictactoe)|Tic-tac-toe written in React.|0|0|0|
 |[carlos.tips](https://github.com/cajogos/carlos.tips)|Blog and brain dump of cajogos.|0|0|0|
 |[wallet-connect](https://github.com/cajogos/wallet-connect)|Next.js project that connects to MetaMask.|0|0|0|
 |[solidity-compiler](https://github.com/cajogos/solidity-compiler)|Solidity compiler in JavaScript - kinda like truffle.|0|0|0|
 |[token-deploy-test](https://github.com/cajogos/token-deploy-test)|Deploying a token using Solidity, Truffle, Ganache, etc.|0|0|0|
-|[react-tictactoe](https://github.com/cajogos/react-tictactoe)|https://reactjs.org/tutorial/tutorial.html|0|0|0|
 |[openzeppelin-learn](https://github.com/cajogos/openzeppelin-learn)|Learning Solidity from OpenZeppelin.|0|0|0|
 |[coderdojorise.com](https://github.com/cajogos/coderdojorise.com)|The new repository for the CoderDojo RISE website.|0|0|0|
 |[theawesome.dev](https://github.com/cajogos/theawesome.dev)|The official repository for theawesome.dev!|0|0|0|
@@ -37,7 +34,6 @@
 |[r-machine-learning](https://github.com/cajogos/r-machine-learning)|R for Data Mining and Machine Learning.|0|0|0|
 |[learning-cpp](https://github.com/cajogos/learning-cpp)|A repository to keep track of my C++ learning.|0|0|0|
 |[javascript-algos](https://github.com/cajogos/javascript-algos)|A repository of a collection of javascript algorithms.|0|0|0|
-|[plusonecoin](https://github.com/cajogos/plusonecoin)|PlusOneCoin Donate: PN3qEttMtX4bHnnBmXKKHFbAfYQ3Z9rCvw|0|0|0|
 
 ---
-**Last updated:** 16:23 on Apr 23, 2022
+**Last updated:** 16:28 on Apr 23, 2022
