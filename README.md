@@ -1,4 +1,4 @@
-# Carlos Ferreira's (cajogos) GitHub Info 
+# Carlos F's (cajogos) GitHub Info 
 ## Repositories
 
 | Repositories | | ⭐ Stars | 📚 Forks | 👀 Watchers |
@@ -36,4 +36,4 @@
 |[javascript-algos](https://github.com/cajogos/javascript-algos)|A repository of a collection of javascript algorithms.|0|0|0|
 
 ---
-**Last updated:** 16:28 on Apr 23, 2022
+**Last updated:** 16:29 on Apr 23, 2022
