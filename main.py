@@ -18,6 +18,8 @@ utils.clear_file('README.md')
 with open('README.md', 'a') as readme:
 	# Initial presentation values
 	readme.write(f"# {config['name']}'s ({gh_info['username']}) GitHub Info \n")
+	readme.write(f"Follow me on [Twitter](https://twitter.com/{config['twitter']}). ")
+	readme.write(f"Connect with me on [LinkedIn](https://linkedin.com/in/{config['linkedin']}).\n")
 
 	# Repositories
 	if (len(gh_info['repos']) > 0):

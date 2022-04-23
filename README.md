@@ -1,4 +1,5 @@
 # Carlos F's (cajogos) GitHub Info 
+Follow me on [Twitter](https://twitter.com/carlos_tweets). Connect with me on [LinkedIn](https://linkedin.com/in/cajogos).
 ## Repositories
 
 | Repositories | | ⭐ Stars | 📚 Forks | 👀 Watchers |
@@ -36,4 +37,4 @@
 |[javascript-algos](https://github.com/cajogos/javascript-algos)|A repository of a collection of javascript algorithms.|0|0|0|
 
 ---
-**Last updated:** 16:29 on Apr 23, 2022
+**Last updated:** 16:32 on Apr 23, 2022
