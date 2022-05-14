@@ -25,7 +25,7 @@ Follow me on [Twitter](https://twitter.com/carlos_tweets). Connect with me on [L
 |[binarysplit](https://github.com/cajogos/binarysplit)|A simple binary split algorithm written in JavaScript.|1|0|1|
 |[react-tictactoe](https://github.com/cajogos/react-tictactoe)|Tic-tac-toe written in React.|0|0|0|
 |[carlos.tips](https://github.com/cajogos/carlos.tips)|Blog and brain dump of cajogos.|0|0|0|
-|[wallet-connect](https://github.com/cajogos/wallet-connect)|Next.js project that connects to MetaMask.|0|0|0|
+|[wallet-connect](https://github.com/cajogos/wallet-connect)|Next.js project that connects to MetaMask.|0|1|0|
 |[solidity-compiler](https://github.com/cajogos/solidity-compiler)|Solidity compiler in JavaScript - kinda like truffle.|0|0|0|
 |[token-deploy-test](https://github.com/cajogos/token-deploy-test)|Deploying a token using Solidity, Truffle, Ganache, etc.|0|0|0|
 |[openzeppelin-learn](https://github.com/cajogos/openzeppelin-learn)|Learning Solidity from OpenZeppelin.|0|0|0|
@@ -37,4 +37,4 @@ Follow me on [Twitter](https://twitter.com/carlos_tweets). Connect with me on [L
 |[javascript-algos](https://github.com/cajogos/javascript-algos)|A repository of a collection of javascript algorithms.|0|0|0|
 
 ---
-**Last updated:** 13:45 on May 13, 2022
+**Last updated:** 13:45 on May 14, 2022
