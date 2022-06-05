@@ -12,6 +12,7 @@ Follow me on [Twitter](https://twitter.com/carlos_tweets). Connect with me on [L
 |[seesaw](https://github.com/cajogos/seesaw)|A JavaScript framework for creation of always-running web apps.|3|1|3|
 |[crypto-explorer](https://github.com/cajogos/crypto-explorer)|An open source cryptocurrency explorer.|3|0|3|
 |[biscuit-link-framework](https://github.com/cajogos/biscuit-link-framework)|The Biscuit Link PHP Framework core classes.|2|1|2|
+|[twitch-ide](https://github.com/cajogos/twitch-ide)|None|1|0|1|
 |[tokenmaker.xyz](https://github.com/cajogos/tokenmaker.xyz)|An easy to use ERC20 token creator.|1|0|1|
 |[carlos.fyi](https://github.com/cajogos/carlos.fyi)|Official repository of my personal website.|1|1|1|
 |[introduction-to-r](https://github.com/cajogos/introduction-to-r)|A repository to keep some examples of me learning R programming.|1|0|1|
@@ -23,7 +24,6 @@ Follow me on [Twitter](https://twitter.com/carlos_tweets). Connect with me on [L
 |[placar](https://github.com/cajogos/placar)|A scoreboard system for treasure hunting. Used by CoderDojo Whitechapel Halloween treasure hunt.|1|1|1|
 |[BISCUIT](https://github.com/cajogos/BISCUIT)|A simpler way to query multiple types of databases.|1|1|1|
 |[binarysplit](https://github.com/cajogos/binarysplit)|A simple binary split algorithm written in JavaScript.|1|0|1|
-|[twitch-ide](https://github.com/cajogos/twitch-ide)|None|0|0|0|
 |[react-tictactoe](https://github.com/cajogos/react-tictactoe)|Tic-tac-toe written in React.|0|0|0|
 |[carlos.tips](https://github.com/cajogos/carlos.tips)|Blog and brain dump of cajogos.|0|0|0|
 |[wallet-connect](https://github.com/cajogos/wallet-connect)|Next.js project that connects to MetaMask.|0|1|0|
@@ -38,4 +38,4 @@ Follow me on [Twitter](https://twitter.com/carlos_tweets). Connect with me on [L
 |[javascript-algos](https://github.com/cajogos/javascript-algos)|A repository of a collection of javascript algorithms.|0|0|0|
 
 ---
-**Last updated:** 13:45 on Jun 04, 2022
+**Last updated:** 13:45 on Jun 05, 2022
