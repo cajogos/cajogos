@@ -38,4 +38,4 @@ Follow me on [Twitter](https://twitter.com/carlos_tweets). Connect with me on [L
 |[javascript-algos](https://github.com/cajogos/javascript-algos)|A repository of a collection of javascript algorithms.|0|0|0|
 
 ---
-**Last updated:** 13:45 on Jun 11, 2022
+**Last updated:** 13:45 on Jun 12, 2022
