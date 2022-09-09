@@ -24,6 +24,7 @@ Follow me on [Twitter](https://twitter.com/carlos_tweets). Connect with me on [L
 |[placar](https://github.com/cajogos/placar)|A scoreboard system for treasure hunting. Used by CoderDojo Whitechapel Halloween treasure hunt.|1|1|1|
 |[BISCUIT](https://github.com/cajogos/BISCUIT)|A simpler way to query multiple types of databases.|1|1|1|
 |[binarysplit](https://github.com/cajogos/binarysplit)|A simple binary split algorithm written in JavaScript.|1|0|1|
+|[cajogos.stream](https://github.com/cajogos/cajogos.stream)|Official repository for cajogos streamer on Twitch.|0|0|0|
 |[pokemon-tcg-data](https://github.com/cajogos/pokemon-tcg-data)|The data found within the Pokémon TCG API|0|0|0|
 |[jitwatch](https://github.com/cajogos/jitwatch)|Log analyser / visualiser for Java HotSpot JIT compiler. Inspect inlining decisions, hot methods, bytecode, and assembly. View results in the JavaFX user interface.|0|0|0|
 |[react-tictactoe](https://github.com/cajogos/react-tictactoe)|Tic-tac-toe written in React.|0|0|0|
@@ -40,4 +41,4 @@ Follow me on [Twitter](https://twitter.com/carlos_tweets). Connect with me on [L
 |[javascript-algos](https://github.com/cajogos/javascript-algos)|A repository of a collection of javascript algorithms.|0|0|0|
 
 ---
-**Last updated:** 13:45 on Sep 08, 2022
+**Last updated:** 13:45 on Sep 09, 2022
