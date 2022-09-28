@@ -31,7 +31,7 @@ Follow me on [Twitter](https://twitter.com/carlos_tweets). Connect with me on [L
 |[carlos.tips](https://github.com/cajogos/carlos.tips)|Blog and brain dump of cajogos.|0|0|0|
 |[wallet-connect](https://github.com/cajogos/wallet-connect)|Next.js project that connects to MetaMask.|0|1|0|
 |[solidity-compiler](https://github.com/cajogos/solidity-compiler)|Solidity compiler in JavaScript - kinda like truffle.|0|0|0|
-|[token-deploy-test](https://github.com/cajogos/token-deploy-test)|Deploying a token using Solidity, Truffle, Ganache, etc.|0|0|0|
+|[token-deploy-test](https://github.com/cajogos/token-deploy-test)|Deploying a token using Solidity, Truffle, Ganache, etc.|0|1|0|
 |[openzeppelin-learn](https://github.com/cajogos/openzeppelin-learn)|Learning Solidity from OpenZeppelin.|0|0|0|
 |[coderdojorise.com](https://github.com/cajogos/coderdojorise.com)|The new repository for the CoderDojo RISE website.|0|0|0|
 |[theawesome.dev](https://github.com/cajogos/theawesome.dev)|The official repository for theawesome.dev!|0|0|0|
@@ -41,4 +41,4 @@ Follow me on [Twitter](https://twitter.com/carlos_tweets). Connect with me on [L
 |[javascript-algos](https://github.com/cajogos/javascript-algos)|A repository of a collection of javascript algorithms.|0|0|0|
 
 ---
-**Last updated:** 13:45 on Sep 27, 2022
+**Last updated:** 13:45 on Sep 28, 2022
