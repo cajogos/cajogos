@@ -12,6 +12,7 @@ Follow me on [Twitter](https://twitter.com/carlos_tweets). Connect with me on [L
 |[seesaw](https://github.com/cajogos/seesaw)|A JavaScript framework for creation of always-running web apps.|3|1|3|
 |[crypto-explorer](https://github.com/cajogos/crypto-explorer)|An open source cryptocurrency explorer.|3|0|3|
 |[biscuit-link-framework](https://github.com/cajogos/biscuit-link-framework)|The Biscuit Link PHP Framework core classes.|2|1|2|
+|[advent-code-2022](https://github.com/cajogos/advent-code-2022)|None|1|0|1|
 |[noots-bot-twitch](https://github.com/cajogos/noots-bot-twitch)|Official Noots_Bot Twitch Bot repository.|1|0|1|
 |[twitch-ide](https://github.com/cajogos/twitch-ide)|None|1|0|1|
 |[tokenmaker.xyz](https://github.com/cajogos/tokenmaker.xyz)|An easy to use ERC20 token creator.|1|0|1|
@@ -43,4 +44,4 @@ Follow me on [Twitter](https://twitter.com/carlos_tweets). Connect with me on [L
 |[javascript-algos](https://github.com/cajogos/javascript-algos)|A repository of a collection of javascript algorithms.|0|0|0|
 
 ---
-**Last updated:** 13:45 on Dec 03, 2022
+**Last updated:** 13:45 on Dec 04, 2022
