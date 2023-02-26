@@ -1,5 +1,5 @@
 # Carlos F's (cajogos) GitHub Info 
-Follow me on [Twitter](https://twitter.com/carlos_tweets). Connect with me on [LinkedIn](https://linkedin.com/in/cajogos).
+Follow me on [Twitter](https://twitter.com/cajogos). Connect with me on [LinkedIn](https://linkedin.com/in/cajogos).
 ## Repositories
 
 | Repositories | | ⭐ Stars | 📚 Forks | 👀 Watchers |
@@ -11,6 +11,7 @@ Follow me on [Twitter](https://twitter.com/carlos_tweets). Connect with me on [L
 |[biscuit-link](https://github.com/cajogos/biscuit-link)|A PHP framework for people who do not want to waste time.|3|4|3|
 |[seesaw](https://github.com/cajogos/seesaw)|A JavaScript framework for creation of always-running web apps.|3|1|3|
 |[crypto-explorer](https://github.com/cajogos/crypto-explorer)|An open source cryptocurrency explorer.|3|0|3|
+|[cajogos](https://github.com/cajogos/cajogos)|Wanna know more? https://carlos.fyi|2|0|2|
 |[biscuit-link-framework](https://github.com/cajogos/biscuit-link-framework)|The Biscuit Link PHP Framework core classes.|2|1|2|
 |[advent-code-2022](https://github.com/cajogos/advent-code-2022)|None|1|0|1|
 |[noots-bot-twitch](https://github.com/cajogos/noots-bot-twitch)|Official Noots_Bot Twitch Bot repository.|1|0|1|
@@ -28,14 +29,20 @@ Follow me on [Twitter](https://twitter.com/carlos_tweets). Connect with me on [L
 |[binarysplit](https://github.com/cajogos/binarysplit)|A simple binary split algorithm written in JavaScript.|1|0|1|
 |[cf-tech.dev](https://github.com/cajogos/cf-tech.dev)|Website for CF Technologies.|0|0|0|
 |[hacktoberfest-2022](https://github.com/cajogos/hacktoberfest-2022)|Noot Army plans for Hacktoberfest 2022.|0|0|0|
+|[ModernREST](https://github.com/cajogos/ModernREST)|Minimal JakartaEE 9 / Jersey 3 / Jetty 11 REST webapp with sessions and static files|0|0|0|
 |[cajogos.stream](https://github.com/cajogos/cajogos.stream)|Official repository for cajogos streamer on Twitch.|0|0|0|
 |[pokemon-tcg-data](https://github.com/cajogos/pokemon-tcg-data)|The data found within the Pokémon TCG API|0|0|0|
 |[jitwatch](https://github.com/cajogos/jitwatch)|Log analyser / visualiser for Java HotSpot JIT compiler. Inspect inlining decisions, hot methods, bytecode, and assembly. View results in the JavaFX user interface.|0|0|0|
+|[cajogos.github.io](https://github.com/cajogos/cajogos.github.io)|My Project on GitHub compiled into a website.|0|0|0|
+|[BigDataAnalytics-Coursework01](https://github.com/cajogos/BigDataAnalytics-Coursework01)|Advanced Big Data Analytics Code|0|0|0|
 |[react-tictactoe](https://github.com/cajogos/react-tictactoe)|Tic-tac-toe written in React.|0|0|0|
+|[Concurrency-Coursework02](https://github.com/cajogos/Concurrency-Coursework02)|Coursework done for Concurrency module for MSc Advanced Software Engineering.|0|0|0|
+|[Concurrency-Coursework01](https://github.com/cajogos/Concurrency-Coursework01)|Coursework done for Concurrency module for MSc Advanced Software Engineering.|0|0|0|
 |[carlos.tips](https://github.com/cajogos/carlos.tips)|Blog and brain dump of cajogos.|0|0|0|
 |[wallet-connect](https://github.com/cajogos/wallet-connect)|Next.js project that connects to MetaMask.|0|1|0|
 |[solidity-compiler](https://github.com/cajogos/solidity-compiler)|Solidity compiler in JavaScript - kinda like truffle.|0|0|0|
 |[token-deploy-test](https://github.com/cajogos/token-deploy-test)|Deploying a token using Solidity, Truffle, Ganache, etc.|0|1|0|
+|[Web-Utils](https://github.com/cajogos/Web-Utils)|Project that contains a collection of Web Dev utilities.|0|0|0|
 |[openzeppelin-learn](https://github.com/cajogos/openzeppelin-learn)|Learning Solidity from OpenZeppelin.|0|0|0|
 |[coderdojorise.com](https://github.com/cajogos/coderdojorise.com)|The new repository for the CoderDojo RISE website.|0|0|0|
 |[theawesome.dev](https://github.com/cajogos/theawesome.dev)|The official repository for theawesome.dev!|0|0|0|
@@ -43,6 +50,7 @@ Follow me on [Twitter](https://twitter.com/carlos_tweets). Connect with me on [L
 |[r-machine-learning](https://github.com/cajogos/r-machine-learning)|R for Data Mining and Machine Learning.|0|0|0|
 |[learning-cpp](https://github.com/cajogos/learning-cpp)|A repository to keep track of my C++ learning.|0|0|0|
 |[javascript-algos](https://github.com/cajogos/javascript-algos)|A repository of a collection of javascript algorithms.|0|0|0|
+|[plusonecoin](https://github.com/cajogos/plusonecoin)|PlusOneCoin Donate: PN3qEttMtX4bHnnBmXKKHFbAfYQ3Z9rCvw|0|0|0|
 
 ---
-**Last updated:** 13:45 on Feb 26, 2023
+**Last updated:** 17:52 on Feb 26, 2023
