@@ -26,6 +26,7 @@ Follow me on [Twitter](https://twitter.com/cajogos). Connect with me on [LinkedI
 |[placar](https://github.com/cajogos/placar)|A scoreboard system for treasure hunting. Used by CoderDojo Whitechapel Halloween treasure hunt.|1|1|1|
 |[BISCUIT](https://github.com/cajogos/BISCUIT)|A simpler way to query multiple types of databases.|1|1|1|
 |[binarysplit](https://github.com/cajogos/binarysplit)|A simple binary split algorithm written in JavaScript.|1|0|1|
+|[rust-sandbox](https://github.com/cajogos/rust-sandbox)|None|0|0|0|
 |[cf-tech.dev](https://github.com/cajogos/cf-tech.dev)|Website for CF Technologies.|0|0|0|
 |[hacktoberfest-2022](https://github.com/cajogos/hacktoberfest-2022)|Noot Army plans for Hacktoberfest 2022.|0|0|0|
 |[ModernREST](https://github.com/cajogos/ModernREST)|Minimal JakartaEE 9 / Jersey 3 / Jetty 11 REST webapp with sessions and static files|0|0|0|
@@ -48,4 +49,4 @@ Follow me on [Twitter](https://twitter.com/cajogos). Connect with me on [LinkedI
 |[javascript-algos](https://github.com/cajogos/javascript-algos)|A repository of a collection of javascript algorithms.|0|0|0|
 
 ---
-**Last updated:** 18:00 on Mar 18, 2023
+**Last updated:** 18:00 on Mar 19, 2023
