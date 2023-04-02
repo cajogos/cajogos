@@ -8,12 +8,12 @@ Follow me on [Twitter](https://twitter.com/cajogos). Connect with me on [LinkedI
 |[php-temp-cache](https://github.com/cajogos/php-temp-cache)|Simple PHP caching class that uses the /tmp/ folder of a Linux system.|5|0|5|
 |[easy-steps](https://github.com/cajogos/easy-steps)|A collection of code written for the In Easy Steps book series by Mike McGrath.|4|1|4|
 |[android-course](https://github.com/cajogos/android-course)|A small repository to keep my files from the Udemy course on Android development by Tim Buchalka.|4|2|4|
-|[biscuit-link](https://github.com/cajogos/biscuit-link)|A PHP framework for people who do not want to waste time.|3|4|3|
+|[noots-bot-twitch](https://github.com/cajogos/noots-bot-twitch)|Official Noots_Bot Twitch Bot repository.|3|2|3|
+|[biscuit-link](https://github.com/cajogos/biscuit-link)|A PHP framework for people who do not want to waste time.|3|3|3|
 |[seesaw](https://github.com/cajogos/seesaw)|A JavaScript framework for creation of always-running web apps.|3|1|3|
 |[crypto-explorer](https://github.com/cajogos/crypto-explorer)|An open source cryptocurrency explorer.|3|0|3|
 |[biscuit-link-framework](https://github.com/cajogos/biscuit-link-framework)|The Biscuit Link PHP Framework core classes.|2|1|2|
 |[advent-code-2022](https://github.com/cajogos/advent-code-2022)|None|1|0|1|
-|[noots-bot-twitch](https://github.com/cajogos/noots-bot-twitch)|Official Noots_Bot Twitch Bot repository.|1|0|1|
 |[twitch-ide](https://github.com/cajogos/twitch-ide)|None|1|0|1|
 |[tokenmaker.xyz](https://github.com/cajogos/tokenmaker.xyz)|An easy to use ERC20 token creator.|1|0|1|
 |[carlos.fyi](https://github.com/cajogos/carlos.fyi)|Official repository of my personal website.|1|1|1|
@@ -26,10 +26,10 @@ Follow me on [Twitter](https://twitter.com/cajogos). Connect with me on [LinkedI
 |[placar](https://github.com/cajogos/placar)|A scoreboard system for treasure hunting. Used by CoderDojo Whitechapel Halloween treasure hunt.|1|1|1|
 |[BISCUIT](https://github.com/cajogos/BISCUIT)|A simpler way to query multiple types of databases.|1|1|1|
 |[binarysplit](https://github.com/cajogos/binarysplit)|A simple binary split algorithm written in JavaScript.|1|0|1|
+|[hacktoberfest-2022](https://github.com/cajogos/hacktoberfest-2022)|Noot Army plans for Hacktoberfest 2022.|0|0|0|
 |[ai](https://github.com/cajogos/ai)|A knowledge base on AI technologies and discussions with chat GPTv4.|0|0|0|
 |[rust-sandbox](https://github.com/cajogos/rust-sandbox)|None|0|0|0|
 |[cf-tech.dev](https://github.com/cajogos/cf-tech.dev)|Website for CF Technologies.|0|0|0|
-|[hacktoberfest-2022](https://github.com/cajogos/hacktoberfest-2022)|Noot Army plans for Hacktoberfest 2022.|0|0|0|
 |[ModernREST](https://github.com/cajogos/ModernREST)|Minimal JakartaEE 9 / Jersey 3 / Jetty 11 REST webapp with sessions and static files|0|0|0|
 |[cajogos.stream](https://github.com/cajogos/cajogos.stream)|Official repository for cajogos streamer on Twitch.|0|0|0|
 |[pokemon-tcg-data](https://github.com/cajogos/pokemon-tcg-data)|The data found within the Pokémon TCG API|0|0|0|
@@ -50,4 +50,4 @@ Follow me on [Twitter](https://twitter.com/cajogos). Connect with me on [LinkedI
 |[javascript-algos](https://github.com/cajogos/javascript-algos)|A repository of a collection of javascript algorithms.|0|0|0|
 
 ---
-**Last updated:** 18:00 on Apr 01, 2023
+**Last updated:** 18:00 on Apr 02, 2023
