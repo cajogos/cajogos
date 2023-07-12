@@ -6,9 +6,9 @@ Follow me on [Twitter](https://twitter.com/cajogos). Connect with me on [LinkedI
 |---|---|:---:|:---:|:---:|
 |[php-Minecraft-3D-Skin-Renderer](https://github.com/cajogos/php-Minecraft-3D-Skin-Renderer)|Render a 3D view of a Minecraft skin.|9|4|9|
 |[php-temp-cache](https://github.com/cajogos/php-temp-cache)|Simple PHP caching class that uses the /tmp/ folder of a Linux system.|6|0|6|
+|[noots-bot-twitch](https://github.com/cajogos/noots-bot-twitch)|Official Noots_Bot Twitch Bot repository.|4|2|4|
 |[easy-steps](https://github.com/cajogos/easy-steps)|A collection of code written for the In Easy Steps book series by Mike McGrath.|4|1|4|
 |[android-course](https://github.com/cajogos/android-course)|A small repository to keep my files from the Udemy course on Android development by Tim Buchalka.|4|2|4|
-|[noots-bot-twitch](https://github.com/cajogos/noots-bot-twitch)|Official Noots_Bot Twitch Bot repository.|3|2|3|
 |[biscuit-link](https://github.com/cajogos/biscuit-link)|A PHP framework for people who do not want to waste time.|3|3|3|
 |[seesaw](https://github.com/cajogos/seesaw)|A JavaScript framework for creation of always-running web apps.|3|1|3|
 |[crypto-explorer](https://github.com/cajogos/crypto-explorer)|An open source cryptocurrency explorer.|3|0|3|
@@ -50,4 +50,4 @@ Follow me on [Twitter](https://twitter.com/cajogos). Connect with me on [LinkedI
 |[javascript-algos](https://github.com/cajogos/javascript-algos)|A repository of a collection of javascript algorithms.|0|0|0|
 
 ---
-**Last updated:** 18:00 on Jul 11, 2023
+**Last updated:** 18:00 on Jul 12, 2023
