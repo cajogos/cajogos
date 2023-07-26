@@ -19,13 +19,13 @@ Follow me on [Twitter](https://twitter.com/cajogos). Connect with me on [LinkedI
 |[carlos.fyi](https://github.com/cajogos/carlos.fyi)|Official repository of my personal website.|1|1|1|
 |[introduction-to-r](https://github.com/cajogos/introduction-to-r)|A repository to keep some examples of me learning R programming.|1|0|1|
 |[symfony4-nginx-vagrant](https://github.com/cajogos/symfony4-nginx-vagrant)|A Symfony 4 Vagrant box using NGINX as web server.|1|0|1|
-|[game-tools](https://github.com/cajogos/game-tools)|A series of tools I coded to help me play my games.|1|0|1|
 |[minesweeper](https://github.com/cajogos/minesweeper)|A HTML based Minesweeper game.|1|0|1|
 |[monokarlos](https://github.com/cajogos/monokarlos)|A colour scheme to fix Sublime's lack of attention for PHP developers.|1|0|1|
 |[alexa-cbot](https://github.com/cajogos/alexa-cbot)|An Amazon Alexa companion bot to help answer all sort of things.|1|0|1|
 |[placar](https://github.com/cajogos/placar)|A scoreboard system for treasure hunting. Used by CoderDojo Whitechapel Halloween treasure hunt.|1|1|1|
 |[BISCUIT](https://github.com/cajogos/BISCUIT)|A simpler way to query multiple types of databases.|1|1|1|
 |[binarysplit](https://github.com/cajogos/binarysplit)|A simple binary split algorithm written in JavaScript.|1|0|1|
+|[game-tools](https://github.com/cajogos/game-tools)|A series of tools I coded to help me play my games.|0|0|0|
 |[hacktoberfest-2022](https://github.com/cajogos/hacktoberfest-2022)|Noot Army plans for Hacktoberfest 2022.|0|0|0|
 |[ai](https://github.com/cajogos/ai)|A knowledge base on AI technologies and discussions with chat GPTv4.|0|0|0|
 |[rust-sandbox](https://github.com/cajogos/rust-sandbox)|None|0|0|0|
@@ -50,4 +50,4 @@ Follow me on [Twitter](https://twitter.com/cajogos). Connect with me on [LinkedI
 |[javascript-algos](https://github.com/cajogos/javascript-algos)|A repository of a collection of javascript algorithms.|0|0|0|
 
 ---
-**Last updated:** 18:00 on Jul 25, 2023
+**Last updated:** 18:00 on Jul 26, 2023
