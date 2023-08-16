@@ -50,4 +50,4 @@ Follow me on [Twitter](https://twitter.com/cajogos). Connect with me on [LinkedI
 |[javascript-algos](https://github.com/cajogos/javascript-algos)|A repository of a collection of javascript algorithms.|0|0|0|
 
 ---
-**Last updated:** 18:00 on Aug 15, 2023
+**Last updated:** 18:00 on Aug 16, 2023
