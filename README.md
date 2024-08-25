@@ -13,6 +13,7 @@ Follow me on [Twitter](https://twitter.com/cajogos). Connect with me on [LinkedI
 |[tokenmaker.xyz](https://github.com/cajogos/tokenmaker.xyz)|An easy to use ERC20 token creator.|3|0|3|
 |[seesaw](https://github.com/cajogos/seesaw)|A JavaScript framework for creation of always-running web apps.|3|1|3|
 |[biscuit-link](https://github.com/cajogos/biscuit-link)|A PHP framework for people who do not want to waste time.|3|3|3|
+|[cajogos](https://github.com/cajogos/cajogos)|Wanna know more? https://carlos.fyi|2|0|2|
 |[biscuit-link-framework](https://github.com/cajogos/biscuit-link-framework)|The Biscuit Link PHP Framework core classes.|2|1|2|
 |[carlos.fyi](https://github.com/cajogos/carlos.fyi)|Official repository of my personal website.|1|1|1|
 |[twitch-ide](https://github.com/cajogos/twitch-ide)|None|1|0|1|
@@ -30,8 +31,6 @@ Follow me on [Twitter](https://twitter.com/cajogos). Connect with me on [LinkedI
 |[cajogos.stream](https://github.com/cajogos/cajogos.stream)|Official repository for cajogos streamer on Twitch.|0|0|0|
 |[advent-code-2022](https://github.com/cajogos/advent-code-2022)|None|0|0|0|
 |[game-tools](https://github.com/cajogos/game-tools)|A series of tools I coded to help me play my games.|0|0|0|
-|[ai](https://github.com/cajogos/ai)|A knowledge base on AI technologies and discussions with chat GPTv4.|0|0|0|
-|[ai](https://github.com/cajogos/ai)|A knowledge base on AI technologies and discussions with chat GPTv4.|0|0|0|
 |[rust-sandbox](https://github.com/cajogos/rust-sandbox)|None|0|0|0|
 |[cf-tech.dev](https://github.com/cajogos/cf-tech.dev)|Website for CF Technologies.|0|0|0|
 |[cajogos.github.io](https://github.com/cajogos/cajogos.github.io)|My Project on GitHub compiled into a website.|0|0|0|
@@ -49,4 +48,4 @@ Follow me on [Twitter](https://twitter.com/cajogos). Connect with me on [LinkedI
 |[javascript-algos](https://github.com/cajogos/javascript-algos)|A repository of a collection of javascript algorithms.|0|0|0|
 
 ---
-**Last updated:** 17:55 on Aug 25, 2024
+**Last updated:** 17:59 on Aug 25, 2024
