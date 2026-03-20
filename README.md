@@ -28,28 +28,9 @@ Follow me on [Twitter](https://twitter.com/cajogos). Connect with me on [LinkedI
 |[placar](https://github.com/cajogos/placar)|A scoreboard system for treasure hunting. Used by CoderDojo Whitechapel Halloween treasure hunt.|1|1|1|
 |[BISCUIT](https://github.com/cajogos/BISCUIT)|A simpler way to query multiple types of databases.|1|1|1|
 |[binarysplit](https://github.com/cajogos/binarysplit)|A simple binary split algorithm written in JavaScript.|1|0|1|
-|[awesome-n8n-templates](https://github.com/cajogos/awesome-n8n-templates)|Supercharge your workflow automation with this curated collection of n8n templates! Instantly connect your favorite apps-like Gmail, Telegram, Google Drive, Slack, and more-with ready-to-use, AI-powered automations. Save time, boost productivity, and unlock the true potential of n8n in just a few clicks.|0|0|0|
-|[useful](https://github.com/cajogos/useful)|A repo full of things I find useful. Feel free to contribute.|0|0|0|
 |[cajogos.stream](https://github.com/cajogos/cajogos.stream)|Official repository for cajogos streamer on Twitch.|0|1|0|
-|[ModernREST](https://github.com/cajogos/ModernREST)|Minimal JakartaEE 9 / Jersey 3 / Jetty 11 REST webapp with sessions and static files|0|0|0|
-|[pokemon-tcg-data](https://github.com/cajogos/pokemon-tcg-data)|The data found within the Pokémon TCG API|0|0|0|
-|[advent-2023](https://github.com/cajogos/advent-2023)|Repository for Advent of Code 2023.|0|0|0|
-|[advent-code-2022](https://github.com/cajogos/advent-code-2022)|None|0|0|0|
-|[game-tools](https://github.com/cajogos/game-tools)|A series of tools I coded to help me play my games.|0|0|0|
-|[rust-sandbox](https://github.com/cajogos/rust-sandbox)|None|0|0|0|
-|[cf-tech.dev](https://github.com/cajogos/cf-tech.dev)|Website for CF Technologies.|0|0|0|
-|[cajogos.github.io](https://github.com/cajogos/cajogos.github.io)|My Project on GitHub compiled into a website.|0|0|0|
-|[react-tictactoe](https://github.com/cajogos/react-tictactoe)|Tic-tac-toe written in React.|0|0|0|
 |[wallet-connect](https://github.com/cajogos/wallet-connect)|Next.js project that connects to MetaMask.|0|1|0|
-|[solidity-compiler](https://github.com/cajogos/solidity-compiler)|Solidity compiler in JavaScript - kinda like truffle.|0|0|0|
 |[token-deploy-test](https://github.com/cajogos/token-deploy-test)|Deploying a token using Solidity, Truffle, Ganache, etc.|0|1|0|
-|[Web-Utils](https://github.com/cajogos/Web-Utils)|Project that contains a collection of Web Dev utilities.|0|0|0|
-|[openzeppelin-learn](https://github.com/cajogos/openzeppelin-learn)|Learning Solidity from OpenZeppelin.|0|0|0|
-|[coderdojorise.com](https://github.com/cajogos/coderdojorise.com)|The new repository for the CoderDojo RISE website.|0|0|0|
-|[advent-2020](https://github.com/cajogos/advent-2020)|Repository for Advent of Code 2020.|0|0|0|
-|[r-machine-learning](https://github.com/cajogos/r-machine-learning)|R for Data Mining and Machine Learning.|0|0|0|
-|[learning-cpp](https://github.com/cajogos/learning-cpp)|A repository to keep track of my C++ learning.|0|0|0|
-|[javascript-algos](https://github.com/cajogos/javascript-algos)|A repository of a collection of javascript algorithms.|0|0|0|
 
 ---
-**Last updated:** 20:47 on Mar 20, 2026
+**Last updated:** 20:48 on Mar 20, 2026

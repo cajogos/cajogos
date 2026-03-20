@@ -50,6 +50,14 @@ def get_repos(username, token, num_repos):
 
 		if (len(json) > 0):
 			for repo in json:
+				num_stars = repo['stargazers_count']
+				num_watchers = repo['watchers_count']
+				num_forks = repo['forks_count']
+
+				if (num_stars == 0 and num_watchers == 0 and num_forks == 0):
+					print(f"Skipping {repo['name']} because it has no stars, watchers, or forks")
+					continue
+
 				repos.append({
 					'id': repo['id'],
 					'name': repo['name'],
