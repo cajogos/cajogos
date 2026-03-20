@@ -1,9 +1,11 @@
-name: 
-twitter: 
-linkedin: 
+name:
+twitter:
+linkedin:
+website_title:
+website_url:
 github:
-  username: 
-  token: 
+  username:
+  token:
   repos:
     exclude: []
 

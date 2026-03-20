@@ -1,5 +1,6 @@
 # Carlos's (cajogos) GitHub Info 
-Follow me on [Twitter](https://twitter.com/cajogos). Connect with me on [LinkedIn](https://linkedin.com/in/cajogos).
+Follow me on [X](https://x.com/cajogos). Connect with me on [LinkedIn](https://linkedin.com/in/cajogos).
+Personal website: [carlos.fyi](https://carlos.fyi).
 ## Repositories
 
 | Repositories | | ⭐ Stars | 📚 Forks | 👀 Watchers |
@@ -33,4 +34,4 @@ Follow me on [Twitter](https://twitter.com/cajogos). Connect with me on [LinkedI
 |[token-deploy-test](https://github.com/cajogos/token-deploy-test)|Deploying a token using Solidity, Truffle, Ganache, etc.|0|1|0|
 
 ---
-**Last updated:** 20:49 on Mar 20, 2026
+**Last updated:** 20:51 on Mar 20, 2026
