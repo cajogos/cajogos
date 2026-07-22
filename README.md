@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=All+Things+Developer;Web+%2B+PHP+%2B+TypeScript;Building+homelab+%26+dev+tools)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=All+Things+Developer;Web+%2B+PHP+%2B+TypeScript;Building+homelab+%26+dev+tools)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-cajogos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cajogos)
 [![X](https://img.shields.io/badge/X-%40cajogos-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/cajogos)
@@ -23,7 +23,7 @@ I've been building things on the web for a long time. I like clean code, side pr
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=php,ts,js,nodejs,astro,python)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=php,ts,js,nodejs,astro,python)
 
 </div>
 
