@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1b27,100:7aa2f7&text=Carlos%20Ferreira&fontColor=ffffff&fontSize=45&desc=VP%20of%20Engineering%20@%20ADVFN%20Ltd&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Carlos Ferreira" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1b27,100:7aa2f7&text=Carlos%20Ferreira&fontColor=ffffff&fontSize=45&desc=All%20Things%20Developer&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Carlos Ferreira" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=VP+of+Engineering+%40+ADVFN;Web+%2B+PHP+%2B+TypeScript;Building+homelab+%26+dev+tools)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=All+Things+Developer;Web+%2B+PHP+%2B+TypeScript;Building+homelab+%26+dev+tools)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cajogos)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/cajogos)
