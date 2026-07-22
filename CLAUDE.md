@@ -21,10 +21,9 @@ Most of the README's "widgets/badges/counters" are **dynamically-generated image
 - `skillicons.dev` - tech logo row
 - `img.shields.io` - social badges (LinkedIn/X/Website)
 - `komarev.com/ghpvc` - profile views counter
-- `github-profile-summary-cards.vercel.app` - stats / languages / productive-time cards
 - `github-readme-activity-graph.vercel.app` - contribution activity graph
 
-**When an image looks broken, the service is usually down, not the URL.** `curl -s -o /dev/null -w "%{http_code}"` each image URL to confirm. History: `github-readme-stats.vercel.app` (503 paused) and `github-profile-trophy.vercel.app` (402 disabled) both died and were replaced by `github-profile-summary-cards`. If a service dies again, find a working alternative rather than assuming a config error.
+**When an image looks broken, the service is usually down, not the URL.** `curl -s -o /dev/null -w "%{http_code}"` each image URL to confirm. History of live services dying: `github-readme-stats.vercel.app` (503) and `github-profile-trophy.vercel.app` (402) were replaced by `github-profile-summary-cards`, which was in turn **retired in favour of the self-hosted `metrics.svg`** (see below) for reliability. The overall direction is to move stats off flaky live services onto Action-generated committed assets. If a live service dies, prefer a self-hosted/committed alternative over another live one.
 
 ## Committed assets and the workflows that generate them
 

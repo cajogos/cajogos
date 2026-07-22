@@ -44,14 +44,6 @@ I've been building things on the web for a long time. I like clean code, side pr
 
 <div align="center">
 
-<a href="https://github.com/cajogos"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cajogos&theme=tokyonight" width="82%" alt="Profile summary" /></a>
-
-<a href="https://github.com/cajogos"><img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cajogos&theme=tokyonight" alt="GitHub stats" /></a>
-<a href="https://github.com/cajogos"><img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cajogos&theme=tokyonight" alt="Most used languages" /></a>
-
-<a href="https://github.com/cajogos"><img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cajogos&theme=tokyonight" alt="Repos per language" /></a>
-<a href="https://github.com/cajogos"><img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cajogos&theme=tokyonight&utcOffset=0" alt="Productive time" /></a>
-
 <a href="https://github.com/cajogos"><img src="./metrics.svg" width="100%" alt="Metrics" /></a>
 
 <a href="https://github.com/cajogos"><img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D contribution graph" /></a>
