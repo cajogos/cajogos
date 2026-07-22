@@ -44,10 +44,13 @@ I've been building things on the web for a long time. I like clean code, side pr
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=cajogos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cajogos&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cajogos&theme=tokyonight" width="82%" alt="Profile summary" />
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=cajogos&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cajogos&theme=tokyonight" alt="GitHub stats" />
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cajogos&theme=tokyonight" alt="Most used languages" />
+
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cajogos&theme=tokyonight" alt="Repos per language" />
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cajogos&theme=tokyonight&utcOffset=0" alt="Productive time" />
 
 ![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cajogos&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=ffffff)
 
