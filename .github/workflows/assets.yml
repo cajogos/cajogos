@@ -18,7 +18,7 @@ jobs:
       # Optional: classic PAT with `repo` + `read:org`. Metrics is skipped if unset.
       METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Prepare output dir
         run: mkdir -p dist/profile-3d-contrib
