@@ -1,4 +1,4 @@
-<a href="https://github.com/cajogos"><img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1b27,100:7aa2f7&text=Carlos%20Ferreira&fontColor=ffffff&fontSize=45&desc=All%20Things%20Developer&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Carlos Ferreira" /></a>
+<a href="https://github.com/cajogos"><img src="./assets/banner.svg" width="100%" alt="Carlos Ferreira - All Things Developer" /></a>
 
 <div align="center">
 
@@ -52,8 +52,17 @@ I've been building things on the web for a long time. I like clean code, side pr
 <a href="https://github.com/cajogos"><img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cajogos&theme=tokyonight" alt="Repos per language" /></a>
 <a href="https://github.com/cajogos"><img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cajogos&theme=tokyonight&utcOffset=0" alt="Productive time" /></a>
 
+<a href="https://github.com/cajogos"><img src="./metrics.svg" width="100%" alt="Metrics" /></a>
+
+<a href="https://github.com/cajogos"><img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D contribution graph" /></a>
+
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cajogos&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=ffffff)](https://github.com/cajogos)
 
 [![Snake animation](https://raw.githubusercontent.com/cajogos/cajogos/output/github-snake-dark.svg)](https://github.com/cajogos)
 
 </div>
+
+## 🕒 Recent activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->

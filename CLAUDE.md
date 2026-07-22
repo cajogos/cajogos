@@ -15,9 +15,8 @@ It was previously a Python script that auto-generated the README from the GitHub
 
 ## Widgets are third-party image services, not code
 
-The README's "widgets/badges/counters" are all **dynamically-generated images** from external services (GitHub markdown cannot run JavaScript). Everything is themed `tokyonight` (accent `#7AA2F7`). Services in use:
+Most of the README's "widgets/badges/counters" are **dynamically-generated images** from external services (GitHub markdown cannot run JavaScript). Everything is themed `tokyonight` (accent `#7AA2F7`). Services in use:
 
-- `capsule-render.vercel.app` - waving header banner
 - `readme-typing-svg.demolab.com` - animated typing subtitle
 - `skillicons.dev` - tech logo row
 - `img.shields.io` - social badges (LinkedIn/X/Website)
@@ -27,9 +26,17 @@ The README's "widgets/badges/counters" are all **dynamically-generated images** 
 
 **When an image looks broken, the service is usually down, not the URL.** `curl -s -o /dev/null -w "%{http_code}"` each image URL to confirm. History: `github-readme-stats.vercel.app` (503 paused) and `github-profile-trophy.vercel.app` (402 disabled) both died and were replaced by `github-profile-summary-cards`. If a service dies again, find a working alternative rather than assuming a config error.
 
-## The snake animation (only moving part with real logic)
+## Committed assets and the workflows that generate them
 
-`.github/workflows/snake.yml` (Platane/snk) runs on push to `main`, daily cron, and manual dispatch. It generates the contribution-snake SVG and pushes it to a dedicated **`output` branch**; the README references it at `raw.githubusercontent.com/cajogos/cajogos/output/github-snake-dark.svg`. The snake image is broken until this Action has run at least once. The workflow needs `contents: write` (already declared) and Actions enabled with read/write permissions on the repo.
+Some visuals are NOT live services: an Action generates the asset and commits it, so the README points at a static file. These are broken until their Action has run at least once (trigger manually via the Actions tab). All need Actions enabled with read/write permissions.
+
+- **`assets/banner.svg`** - hand-authored custom header banner (no Action, no external service). Edit it directly. Uses SMIL animation (the blinking cursor); keep any text at full opacity so it stays visible in static renderers.
+- **`.github/workflows/snake.yml`** (Platane/snk) - runs on push to `main` + daily + dispatch. Pushes the snake SVG to a dedicated **`output` branch**; README reads `raw.githubusercontent.com/cajogos/cajogos/output/github-snake-dark.svg`. Safe to trigger on push because it writes to a different branch (no loop).
+- **`.github/workflows/3d-contrib.yml`** - commits `profile-3d-contrib/*.svg` to `main` (README uses `profile-night-view.svg`).
+- **`.github/workflows/metrics.yml`** (lowlighter/metrics) - commits `metrics.svg`. **Requires a repo secret `METRICS_TOKEN`** (classic PAT with `repo` + `read:org`); it will fail until that exists.
+- **`.github/workflows/activity.yml`** - rewrites the content between the `<!--START_SECTION:activity-->` / `<!--END_SECTION:activity-->` markers in `README.md`. Do not remove those markers.
+
+Workflows that commit to `main` (3d-contrib, metrics, activity) run on **cron + dispatch only, never on push**, to avoid a self-triggering commit loop. Their crons are staggered (00:00-03:00 UTC) so they don't race on the push.
 
 ## Conventions
 
