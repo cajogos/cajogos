@@ -1,20 +1,31 @@
-# Hi, I'm Carlos 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1b27,100:7aa2f7&text=Carlos%20Ferreira&fontColor=ffffff&fontSize=45&desc=VP%20of%20Engineering%20@%20ADVFN%20Ltd&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Carlos Ferreira" />
 
-💼 VP of Engineering at **ADVFN Ltd**
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=VP+of+Engineering+%40+ADVFN;Web+%2B+PHP+%2B+TypeScript;Building+homelab+%26+dev+tools)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cajogos)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/cajogos)
+[![Website](https://img.shields.io/badge/carlos.fyi-7AA2F7?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://carlos.fyi)
+![Profile views](https://komarev.com/ghpvc/?username=cajogos&color=7aa2f7&style=for-the-badge&label=Profile+Views)
+
+</div>
+
+## 👋 About me
 
 I've been building things on the web for a long time. I like clean code, side projects, and the occasional bit of PHP that refuses to die.
 
+- 🌱 **Currently working on:** small, local-first developer and homelab tools in TypeScript
+- 💡 **Ask me about:** web architecture, PHP, engineering leadership, and homelab setups
+- ☕ **Outside of work:** streaming on Twitch and tracking far too many Pokemon TCG cards
+
 ## 🛠️ Tech stack
 
-PHP · TypeScript · JavaScript · Node.js · Python · Astro
+<div align="center">
 
-## 🌱 Currently working on
+[![My Skills](https://skillicons.dev/icons?i=php,ts,js,nodejs,astro,python)](https://skillicons.dev)
 
-Small, local-first developer and homelab tools in TypeScript.
-
-## 💡 Ask me about
-
-Web architecture, PHP, engineering leadership, and homelab setups.
+</div>
 
 ## 🚀 A few things I've built
 
@@ -29,9 +40,20 @@ Web architecture, PHP, engineering leadership, and homelab setups.
 - 📊 **[stirilo](https://github.com/cajogos/stirilo)** - A local-first system control dashboard for developers
 - 🃏 **[tcg-tracker](https://github.com/cajogos/tcg-tracker)** - Track your Pokemon TCG cards and their value
 
-## ☕ Outside of work
+## 📊 GitHub stats
 
-Streaming on Twitch and keeping track of far too many Pokemon TCG cards.
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=cajogos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cajogos&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=cajogos&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cajogos&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=ffffff)
+
+![Snake animation](https://raw.githubusercontent.com/cajogos/cajogos/output/github-snake-dark.svg)
+
+</div>
 
 ## 📫 Where to find me
 
