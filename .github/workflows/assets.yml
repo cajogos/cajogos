@@ -37,6 +37,7 @@ jobs:
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           USERNAME: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Collect 3D graph
         run: cp -f profile-3d-contrib/*.svg dist/profile-3d-contrib/
 
