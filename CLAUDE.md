@@ -27,15 +27,13 @@ Most of the README's "widgets/badges/counters" are **dynamically-generated image
 
 ## Committed assets and the workflows that generate them
 
-Some visuals are NOT live services: an Action generates the asset and commits it, so the README points at a static file. These are broken until their Action has run at least once (trigger manually via the Actions tab). All need Actions enabled with read/write permissions.
+Some visuals are NOT live services: an Action generates the asset and the README points at a static file. These are broken until their Action has run at least once (trigger manually via the Actions tab). All need Actions enabled with read/write permissions.
 
 - **`assets/banner.svg`** - hand-authored custom header banner (no Action, no external service). Edit it directly. Uses SMIL animation (the blinking cursor); keep any text at full opacity so it stays visible in static renderers.
-- **`.github/workflows/snake.yml`** (Platane/snk) - runs on push to `main` + daily + dispatch. Pushes the snake SVG to a dedicated **`output` branch**; README reads `raw.githubusercontent.com/cajogos/cajogos/output/github-snake-dark.svg`. Safe to trigger on push because it writes to a different branch (no loop).
-- **`.github/workflows/3d-contrib.yml`** - commits `profile-3d-contrib/*.svg` to `main` (README uses `profile-night-view.svg`).
-- **`.github/workflows/metrics.yml`** (lowlighter/metrics) - commits `metrics.svg`. **Requires a repo secret `METRICS_TOKEN`** (classic PAT with `repo` + `read:org`); it will fail until that exists.
-- **`.github/workflows/activity.yml`** - rewrites the content between the `<!--START_SECTION:activity-->` / `<!--END_SECTION:activity-->` markers in `README.md`. Do not remove those markers.
-
-Workflows that commit to `main` (3d-contrib, metrics, activity) run on **cron + dispatch only, never on push**, to avoid a self-triggering commit loop. Their crons are staggered (00:00-03:00 UTC) so they don't race on the push.
+- **`.github/workflows/assets.yml`** - the single generator for the image assets. Builds the snake, the 3D contribution graph, and (if `METRICS_TOKEN` is set) the metrics dashboard into a `dist/` folder, then publishes that folder to a dedicated **`output` branch** with `crazy-max/ghaction-github-pages`. The README reads them from `raw.githubusercontent.com/cajogos/cajogos/output/...` (`github-snake-dark.svg`, `profile-3d-contrib/profile-night-view.svg`, `metrics.svg`). Runs on push to `main` + daily + dispatch.
+  - **Why one workflow, not three:** the publish step *replaces* the entire `output` branch each run, so separate workflows pushing there would clobber each other. Keeping all assets in one `dist/` build avoids that. This also keeps `main` free of bot commits and makes `push` triggers loop-safe (it writes to `output`, never `main`).
+  - **Metrics** (`lowlighter/metrics`) runs with `output_action: none` (it generates the file, never commits itself) and is gated on `env.METRICS_TOKEN != ''`, so a missing secret just skips metrics while snake and 3D still publish. `METRICS_TOKEN` is a classic PAT with `repo` + `read:org`.
+- **`.github/workflows/activity.yml`** - the one workflow that still writes to `main`, because it rewrites the content between the `<!--START_SECTION:activity-->` / `<!--END_SECTION:activity-->` markers directly inside `README.md` (that content cannot live on the `output` branch). Cron + dispatch only. Do not remove those markers.
 
 ## Conventions
 

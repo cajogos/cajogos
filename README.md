@@ -44,9 +44,9 @@ I've been building things on the web for a long time. I like clean code, side pr
 
 <div align="center">
 
-<a href="https://github.com/cajogos"><img src="./metrics.svg" width="100%" alt="Metrics" /></a>
+<a href="https://github.com/cajogos"><img src="https://raw.githubusercontent.com/cajogos/cajogos/output/metrics.svg" width="100%" alt="Metrics" /></a>
 
-<a href="https://github.com/cajogos"><img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D contribution graph" /></a>
+<a href="https://github.com/cajogos"><img src="https://raw.githubusercontent.com/cajogos/cajogos/output/profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D contribution graph" /></a>
 
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cajogos&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=ffffff)](https://github.com/cajogos)
 

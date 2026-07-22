@@ -1,0 +1,68 @@
+name: Profile Assets
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      # Optional: classic PAT with `repo` + `read:org`. Metrics is skipped if unset.
+      METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Prepare output dir
+        run: mkdir -p dist/profile-3d-contrib
+
+      # 1) Contribution snake
+      - name: Generate snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg
+
+      # 2) 3D contribution graph (generates into ./profile-3d-contrib)
+      - name: Generate 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          USERNAME: ${{ github.repository_owner }}
+      - name: Collect 3D graph
+        run: cp -f profile-3d-contrib/*.svg dist/profile-3d-contrib/
+
+      # 3) Metrics dashboard (only if METRICS_TOKEN is set; never commits itself)
+      - name: Generate metrics
+        if: ${{ env.METRICS_TOKEN != '' }}
+        continue-on-error: true
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: dist/metrics.svg
+          output_action: none
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/London
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+      # 4) Publish everything to the output branch (keeps main clean)
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
