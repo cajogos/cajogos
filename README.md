@@ -1,13 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1b27,100:7aa2f7&text=Carlos%20Ferreira&fontColor=ffffff&fontSize=45&desc=All%20Things%20Developer&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Carlos Ferreira" />
+<a href="https://github.com/cajogos"><img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1b27,100:7aa2f7&text=Carlos%20Ferreira&fontColor=ffffff&fontSize=45&desc=All%20Things%20Developer&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Carlos Ferreira" /></a>
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=All+Things+Developer;Web+%2B+PHP+%2B+TypeScript;Building+homelab+%26+dev+tools)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=All+Things+Developer;Web+%2B+PHP+%2B+TypeScript;Building+homelab+%26+dev+tools)](https://github.com/cajogos)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-cajogos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cajogos)
+[![LinkedIn](https://img.shields.io/badge/in%2Fcajogos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cajogos)
 [![X](https://img.shields.io/badge/X-%40cajogos-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/cajogos)
-[![Website](https://img.shields.io/badge/Website-carlos.fyi-7AA2F7?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://carlos.fyi)
-![Profile views](https://komarev.com/ghpvc/?username=cajogos&color=7aa2f7&style=for-the-badge&label=Profile+Views)
+[![Website](https://img.shields.io/badge/carlos.fyi-7AA2F7?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://carlos.fyi)
+[![Profile views](https://komarev.com/ghpvc/?username=cajogos&color=7aa2f7&style=for-the-badge&label=Profile+Views)](https://github.com/cajogos)
 
 </div>
 
@@ -23,7 +23,7 @@ I've been building things on the web for a long time. I like clean code, side pr
 
 <div align="center">
 
-![My Skills](https://skillicons.dev/icons?i=php,ts,js,nodejs,astro,python)
+[![My Skills](https://skillicons.dev/icons?i=php,ts,js,nodejs,astro,python)](https://github.com/cajogos)
 
 </div>
 
@@ -44,16 +44,16 @@ I've been building things on the web for a long time. I like clean code, side pr
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cajogos&theme=tokyonight" width="82%" alt="Profile summary" />
+<a href="https://github.com/cajogos"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cajogos&theme=tokyonight" width="82%" alt="Profile summary" /></a>
 
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cajogos&theme=tokyonight" alt="GitHub stats" />
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cajogos&theme=tokyonight" alt="Most used languages" />
+<a href="https://github.com/cajogos"><img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cajogos&theme=tokyonight" alt="GitHub stats" /></a>
+<a href="https://github.com/cajogos"><img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cajogos&theme=tokyonight" alt="Most used languages" /></a>
 
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cajogos&theme=tokyonight" alt="Repos per language" />
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cajogos&theme=tokyonight&utcOffset=0" alt="Productive time" />
+<a href="https://github.com/cajogos"><img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cajogos&theme=tokyonight" alt="Repos per language" /></a>
+<a href="https://github.com/cajogos"><img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cajogos&theme=tokyonight&utcOffset=0" alt="Productive time" /></a>
 
-![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cajogos&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=ffffff)
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cajogos&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=ffffff)](https://github.com/cajogos)
 
-![Snake animation](https://raw.githubusercontent.com/cajogos/cajogos/output/github-snake-dark.svg)
+[![Snake animation](https://raw.githubusercontent.com/cajogos/cajogos/output/github-snake-dark.svg)](https://github.com/cajogos)
 
 </div>
