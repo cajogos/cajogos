@@ -4,9 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=All+Things+Developer;Web+%2B+PHP+%2B+TypeScript;Building+homelab+%26+dev+tools)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cajogos)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/cajogos)
-[![Website](https://img.shields.io/badge/carlos.fyi-7AA2F7?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://carlos.fyi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-cajogos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cajogos)
+[![X](https://img.shields.io/badge/X-%40cajogos-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/cajogos)
+[![Website](https://img.shields.io/badge/Website-carlos.fyi-7AA2F7?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://carlos.fyi)
 ![Profile views](https://komarev.com/ghpvc/?username=cajogos&color=7aa2f7&style=for-the-badge&label=Profile+Views)
 
 </div>
@@ -17,7 +17,7 @@ I've been building things on the web for a long time. I like clean code, side pr
 
 - 🌱 **Currently working on:** small, local-first developer and homelab tools in TypeScript
 - 💡 **Ask me about:** web architecture, PHP, engineering leadership, and homelab setups
-- ☕ **Outside of work:** streaming on Twitch and tracking far too many Pokemon TCG cards
+- ☕ **Outside of work:** tinkering with AI, travelling and exploring new cities, and collecting Pokemon TCG cards
 
 ## 🛠️ Tech stack
 
@@ -57,9 +57,3 @@ I've been building things on the web for a long time. I like clean code, side pr
 ![Snake animation](https://raw.githubusercontent.com/cajogos/cajogos/output/github-snake-dark.svg)
 
 </div>
-
-## 📫 Where to find me
-
-- 🌐 Website: [carlos.fyi](https://carlos.fyi)
-- 💬 LinkedIn: [in/cajogos](https://linkedin.com/in/cajogos)
-- 🐦 X: [@cajogos](https://x.com/cajogos)
