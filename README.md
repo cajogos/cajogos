@@ -55,4 +55,6 @@ I've been building things on the web for a long time. I like clean code, side pr
 ## 🕒 Recent activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#41](https://github.com/freeCodeCampLondon/fcc-website/pull/41) in [freeCodeCampLondon/fcc-website](https://github.com/freeCodeCampLondon/fcc-website)
+2. 💪 Opened PR [#41](https://github.com/freeCodeCampLondon/fcc-website/pull/41) in [freeCodeCampLondon/fcc-website](https://github.com/freeCodeCampLondon/fcc-website)
 <!--END_SECTION:activity-->
